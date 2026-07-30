@@ -1,6 +1,9 @@
 import type { MetadataRoute } from 'next'
 import { SITE_URL } from '@/lib/seo'
 
+// Generato al build time: il sito è esportato come statico (`output: 'export'`).
+export const dynamic = 'force-static'
+
 /**
  * robots.txt: consente la scansione dell'intero sito (le singole pagine
  * di servizio restano escluse dall'indice tramite il meta robots `noindex`)

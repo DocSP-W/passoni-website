@@ -11,6 +11,7 @@ __v0_jsx-dev-runtime.ts
 
 # Build artifacts
 *.tsbuildinfo
+/out/
 
 # Browser automation session artifacts
 .playwright-mcp/
