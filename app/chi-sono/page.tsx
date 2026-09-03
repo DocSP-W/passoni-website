@@ -3,7 +3,6 @@ import {
   ArrowRight,
   GraduationCap,
   Calendar,
-  Star,
   FlaskConical,
   UserRoundCheck,
   BookOpen,
@@ -239,10 +238,6 @@ export default function ChiSonoPage() {
                       <span className="inline-flex items-center gap-1.5 rounded-full bg-[oklch(0.96_0.035_144)] px-3 py-1 text-xs font-medium" style={{ color: 'oklch(0.5 0.14 144)' }}>
                         <Calendar className="h-3.5 w-3.5" />
                         {item.year}
-                      </span>
-                      <span className="inline-flex items-center gap-1.5 rounded-full bg-[oklch(0.96_0.035_144)] px-3 py-1 text-xs font-medium" style={{ color: 'oklch(0.5 0.14 144)' }}>
-                        <Star className="h-3.5 w-3.5 fill-current" />
-                        Eccellente
                       </span>
                     </div>
                   </div>
