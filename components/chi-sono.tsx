@@ -24,9 +24,9 @@ export default function ChiSono() {
               >
                 <div className="aspect-[4/5] w-full overflow-hidden rounded-2xl">
                   <img
-                    src="/dott-passoni.png"
-                    alt="Dott. Stefano Passoni — biologo nutrizionista"
-                    className="h-full w-full object-cover object-top"
+                    src="/desk-passoni.jpeg"
+                    alt="Dott. Stefano Passoni nel suo studio, alla scrivania"
+                    className="h-full w-full object-cover object-center"
                   />
                 </div>
               </div>

@@ -59,7 +59,7 @@ export default function Hero() {
           <div className="flex justify-center md:justify-end items-end">
             <Reveal immediate delay={0.2} className="relative w-full max-w-sm md:max-w-lg lg:max-w-xl xl:max-w-2xl">
               <img
-                src="/dott-passoni.png"
+                src="/closeup-transp-passoni.png"
                 alt="Dott. Stefano Passoni, biologo nutrizionista, in camice bianco"
                 className="w-full object-contain object-bottom max-h-[580px] md:max-h-[680px] lg:max-h-[760px]"
               />

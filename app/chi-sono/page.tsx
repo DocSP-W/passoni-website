@@ -163,7 +163,7 @@ export default function ChiSonoPage() {
               <Reveal immediate delay={0.2} className="relative w-full max-w-[240px] sm:max-w-xs lg:max-w-md rounded-3xl p-3 -rotate-3 bg-white/15 backdrop-blur-sm">
                 <div className="aspect-[4/5] w-full overflow-hidden rounded-2xl">
                   <img
-                    src="/dott-passoni.png"
+                    src="/closeup-transp-passoni.png"
                     alt="Dott. Stefano Passoni — biologo nutrizionista"
                     className="h-full w-full object-cover object-top"
                   />
